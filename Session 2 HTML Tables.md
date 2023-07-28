@@ -2,8 +2,8 @@
 
 Each cell has a number. The numbers can be put in a "h1" tag if desired. The image below shows what the table should look like using "h1" tags around the numbers.
 
-![](https://github.com/pesto-students/Plus-Program-Assignments/blob/master/Web%20Fundamentals/Session-02/HTML%20Tables/Aspose.Words.d8c5dd3e-1b23-4a14-8921-077d03fe1712.001.png)
+![](https://storage.googleapis.com/reading_material_assets/table1.png)
 
 1\. Recreate the list shown in the image below: The outer list is an order list, and the nested lists are unordered.
 
-![](https://github.com/pesto-students/Plus-Program-Assignments/blob/master/Web%20Fundamentals/Session-02/HTML%20Tables/Aspose.Words.d8c5dd3e-1b23-4a14-8921-077d03fe1712.002.png)
+![](https://storage.googleapis.com/reading_material_assets/pestoimages/table2.png)

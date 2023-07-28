@@ -1,6 +1,6 @@
 Add a web form to index.html as shown below that allows the user to enter personal information for joining a social network. The webpage uses CSS to align the form widgets vertically.
 
-![](https://github.com/pesto-students/Plus-Program-Assignments/blob/master/Web%20Fundamentals/Session-02/Advanced/sample.png "Title")
+![](https://storage.googleapis.com/reading_material_assets/pestoimages/advanced.png "Title")
 
 The form should:
 

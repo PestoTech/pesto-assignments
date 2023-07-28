@@ -1,23 +1,29 @@
 Create a webpage about your hometown like the example below.
 
-![](https://github.com/pesto-students/Plus-Program-Assignments/blob/master/Web%20Fundamentals/Session-02/Hometown%20Webpage/Aspose.Words.b6f508f0-f8c9-4eab-bc23-c82311e41900.001.png)
+![](https://storage.googleapis.com/reading_material_assets/pestoimages/hometown.png)
 
 # Hometown Name
 
 ## Location
+
 A brief description of the town's location goes here.
 
 ## About
+
 ### Subsection 1
+
 A paragraph describing something about the hometown goes here.
 
 ### Subsection 2
+
 A paragraph describing something else about the hometown goes here.
 
 ### Subsection 3
+
 A paragraph describing another aspect of the hometown goes here.
 
 ## Things To Do
+
 - Visit the historic landmarks.
 - Explore the beautiful parks and nature reserves.
 - Try out the local cuisine and restaurants.
